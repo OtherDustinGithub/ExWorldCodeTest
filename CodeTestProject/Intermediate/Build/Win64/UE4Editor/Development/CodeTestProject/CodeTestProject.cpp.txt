@@ -1,0 +1,2 @@
+C:\Users\dusti\Documents\Github\ExWorldCodeTest\ExWorldCodeTest\CodeTestProject\Intermediate\Build\Win64\UE4Editor\Development\CodeTestProject\Definitions.CodeTestProject.h
+C:\Users\dusti\Documents\Github\ExWorldCodeTest\ExWorldCodeTest\CodeTestProject\Source\CodeTestProject\CodeTestProject.h
